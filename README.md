@@ -5,7 +5,7 @@ Finds duplicate lines in text files. Great for checking paid proxy/combo lists.
 ## to run
 
 ```
-python main.py file1.txt file2.txt file3.txt=
+python main.py file1.txt file2.txt file3.txt
 ```
 
 ## output
