@@ -1,6 +1,6 @@
 # dupes
 
-Finds duplicate lines for those pesky scammers
+Finds duplicate lines in text files. Great for checking paid proxy/combo lists.
 
 ## to run
 
