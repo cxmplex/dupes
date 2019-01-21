@@ -1,6 +1,6 @@
 # dupes
 
-Finds duplicate lines in text files. Great for checking paid proxy/combo lists.
+Finds duplicate lines in text files. Great for checking proxy/combo lists.
 
 ## to run
 
