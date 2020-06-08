@@ -1,12 +1,14 @@
 # dupes
 
-Finds duplicate lines in text files. Great for checking proxy/combo lists.
+Very simple CLI tool to count duplicates. Great for checking proxy/combo lists.
 
 ## to run
 
 ```
 python main.py file1.txt file2.txt file3.txt
 ```
+
+Best use is to bind python main.py to an alias, i.e. dupe file1 file2
 
 ## output
 
